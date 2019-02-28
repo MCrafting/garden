@@ -1,0 +1,111 @@
+body {
+  font-family: 'Roleway', sans-serif;
+  text-align: center;
+  margin: auto;
+  font-size: 1.2rem;
+}
+
+h1 {
+  float: right;
+}
+
+.y {
+text-decoration: underline;
+}
+
+.main-text {
+  float: left;
+  text-align: left;
+  line-height: 2rem;
+  padding-top: 40px;
+}
+
+.logo {
+  padding: 18% 10% 0 0;
+}
+
+.darkcolor {
+  background-color: #729d39;
+  color: #fbfad3;
+  padding: 7% 15% 5%;
+}
+
+.lightcolor {
+  background-color: #fbfad3;
+  color: #36622b;
+  padding: 7% 15% 5%;
+}
+
+.containter-fluid {
+  position: relative;
+}
+
+.navbar {
+  padding-left: 40%;
+  background-color: #729d39;
+}
+
+.nav-link {
+  padding-left: 20px;
+}
+
+.card-header {
+  color: #c6e377;
+  background-color: #36622b;
+}
+
+.card-body {
+  color: #36622b;
+  background-color: #c6e377;
+}
+
+.col {
+  padding-bottom: 10px;
+}
+
+.who {
+margin-bottom: 30px;
+}
+
+.about {
+  line-height: 2rem;
+}
+
+.what {
+  margin-bottom: 50px;
+}
+
+.what-column {
+  padding: 10px;
+}
+
+.card-body {
+  line-height: 1.5rem;
+}
+
+.contact {
+  font-weight: 700;
+  font-size: 3.5rem;
+  padding-bottom: 4rem;
+}
+
+img {
+  max-width: 30%;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.contact-icon {
+  color: #fbfad3;
+}
+
+.contact-icon:hover {
+  color: #c6e377;
+}
+
+.social-icon {
+  color: #729d39;
+  padding: 10px;
+}
